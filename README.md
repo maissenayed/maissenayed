@@ -1,10 +1,9 @@
 # Hey all! 
 
+
 [![GitHub followers](https://img.shields.io/github/followers/maissenayed.svg?style=social&label=Followers)](https://github.com/maissenayed?tab=followers)
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/maissen-ayed/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/ayedmaissen)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey%2C+I'am+Maissen+Ayed+%2C+I'm+a+front+end+engineer%2C+and+a+bass+player+)](https://git.io/typing-svg)
@@ -17,9 +16,9 @@
 
 ### Here's my github README stats:
 
-![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=maissenayed&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maissenayed&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maissenayed)](https://github.com/ryo-ma/github-profile-trophy)
+![Maissen Ayed GitHub stats](https://github-readme-stats.vercel.app/api?username=maissenayed&show_icons=true&theme=algolia) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maissenayed&theme=algolia)](https://git.io/streak-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=maissenayed)](https://github.com/maissenayed/github-profile-trophy)
 
 ### Here's the languages that I am currently working on:
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -79,6 +78,6 @@
 
 ------
 
-Credit : [Maissen Ayed](https://github.com/maissenayed)
+Credit : [AvidCoder101](https://github.com/AvidCoder101)
 
-Last Edited On: 27/02/2022
+Last Edited On: 31/08/2021
