@@ -3,7 +3,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/maissenayed.svg?style=social&label=Followers)](https://github.com/maissenayed?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/maissen-ayed/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/ayedmaissen)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/maissenayed)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey%2C+I'am+Maissen+Ayed+%2C+I'm+a+front+end+engineer%2C+and+a+bass+player+)](https://git.io/typing-svg)
@@ -18,13 +18,15 @@
 
 ![Maissen Ayed GitHub stats](https://github-readme-stats.vercel.app/api?username=maissenayed&show_icons=true&theme=algolia) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maissenayed&theme=algolia)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maissenayed)](https://github.com/maissenayed/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maissenayed&theme=algolia)](https://github.com/maissenayed/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=maissenayed&theme=algolia)](https://github.com/maissenayed/github-profile-trophy)
 
 ### Here's the Favorite stack that I am currently working on:
 #### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 #### Front end
-##### Core
+
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,6 +39,8 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 #### back end
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
