@@ -18,7 +18,7 @@
 
 ![Maissen Ayed GitHub stats](https://github-readme-stats.vercel.app/api?username=maissenayed&show_icons=true&theme=algolia) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maissenayed&theme=algolia)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maissenayed&theme=algolia)](https://github.com/maissenayed/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maissenayed&theme=algolia&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maissenayed&theme=algolia)](https://github.com/maissenayed/github-profile-trophy)
 
