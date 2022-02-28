@@ -21,7 +21,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ayed.maissen@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey%2C+I'am+Maissen+Ayed+%2C+I'm+a+front+end+engineer%2C+and+a+bass+player+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23195671&size=32&duration=10000&multiline=true&width=1920&lines=Hey+I+am+Maissen+Ayed%2C+Front+End+engineer%2C+and+a+bass+player+)](https://git.io/typing-svg)
 ### Here's some fun facts about me: </h3>
 
 - **I am a ***HUGE Suikoden  fan***⚡🧙🏻‍♂️**
