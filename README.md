@@ -30,10 +30,13 @@
 - **I am a bass player 🎸**
 
 ### Here's my github README stats:
-
+<p align="center">
 ![Maissen Ayed GitHub stats](https://github-readme-stats.vercel.app/api?username=maissenayed&show_icons=true&theme=algolia) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maissenayed&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maissenayed&theme=algolia&layout=compact)
+</p>
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maissenayed&theme=algolia)](https://github.com/maissenayed/github-profile-trophy)
 
