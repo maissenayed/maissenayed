@@ -12,7 +12,7 @@
 - **I am a ***HUGE Suikoden  fan***⚡🧙🏻‍♂️**
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
 -  **I am a true science lover 🔬**
-
+- **I'am a bass player 🎸 **
 
 ### Here's my github README stats:
 
