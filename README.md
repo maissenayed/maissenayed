@@ -19,7 +19,7 @@
 <a href="https://www.hackerearth.com/@ayed.maissen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@ayed.maissen" height="30" width="40" /></a>
 </p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ayed.maissen@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=ayed.maissen@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23195671&size=40&duration=10000&multiline=true&width=1920&lines=Hey+I+am+Maissen+Ayed%2C+Front+End+engineer%2C+and+a+bass+player+)](https://git.io/typing-svg)
 ### Here's some fun facts about me: </h3>
