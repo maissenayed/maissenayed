@@ -23,7 +23,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&center=true&vCenter=true&width=780&lines=Staff+Software+Engineer+%7C+Monster+Architect;Next.js+%2B+React+%2B+TS+%7C+High+impact+web+systems;AI+tinkerer+%7C+DX+alchemist+%7C+Product+troublemaker"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+Monster+Architect;Next.js+%2B+React+%2B+TS+%7C+High+impact+web+systems;AI+tinkerer+%7C+DX+alchemist+%7C+Product+troublemaker"
     alt="Typing intro"
   />
 </p>
@@ -102,21 +102,6 @@ Most of this lives in WIP / private repos; ping me if you're into this kind of m
 
 ---
 
-## 📊 Monster activity report
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=maissenayed&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&custom_title=Chaos+level"
-    alt="El May's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maissenayed&layout=compact&theme=transparent&hide_border=true&langs_count=8"
-    alt="Top languages"
-  />
-</p>
 
 ---
 
