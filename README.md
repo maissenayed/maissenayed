@@ -18,15 +18,8 @@
   <a href="https://github.com/maissenayed">
     <img src="https://img.shields.io/github/stars/maissenayed?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=STAR+OFFERINGS" alt="GitHub user stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=maissenayed&style=for-the-badge&label=SOUL+SCANS" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+Monster+Architect;Next.js+%2B+React+%2B+TS+%7C+High+impact+web+systems;AI+tinkerer+%7C+DX+alchemist+%7C+Product+troublemaker"
-    alt="Typing intro"
-  />
-</p>
 
 ---
 
@@ -55,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </p>
+
 
 <p align="center">
   <!-- Frontline spells -->
@@ -102,8 +96,11 @@ Most of this lives in WIP / private repos; ping me if you're into this kind of m
 
 ---
 <p align="center">
-<a  href="https://app.daily.dev/maissenayed"><img src="https://api.daily.dev/devcards/v2/q3UxevACpv4heTfd1flAW.png?type=default&r=3x5" width="356" alt="Maissen Ayed's Dev Card"/></a></p>
+<a  href="https://app.daily.dev/maissenayed"><img src="https://api.daily.dev/devcards/v2/q3UxevACpv4heTfd1flAW.png?type=default&r=3x5" width="356" alt="Maissen Ayed's Dev Card"/></a>
+</p>
+
 ---
+
 
 ## ✍️ Spellbooks & ramblings
 
@@ -118,9 +115,6 @@ Most of this lives in WIP / private repos; ping me if you're into this kind of m
 ## 📡 Summon me
 
 <p align="center">
-  <a href="mailto:ayed.maissen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayed.maissen%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/maissen-ayed/">
     <img src="https://img.shields.io/badge/LinkedIn-Maissen%20Ayed-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
