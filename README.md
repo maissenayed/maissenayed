@@ -101,8 +101,8 @@
 Most of this lives in WIP / private repos; ping me if you're into this kind of madness.
 
 ---
-
-
+<p align="center">
+<a  href="https://app.daily.dev/maissenayed"><img src="https://api.daily.dev/devcards/v2/q3UxevACpv4heTfd1flAW.png?type=default&r=3x5" width="356" alt="Maissen Ayed's Dev Card"/></a></p>
 ---
 
 ## ✍️ Spellbooks & ramblings
